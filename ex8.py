@@ -9,4 +9,4 @@ print(formatter.format(
 "line with space ",
 "next line",
 "last line"
-)
+))
